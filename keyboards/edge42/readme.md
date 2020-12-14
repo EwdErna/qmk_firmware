@@ -1,14 +1,14 @@
 # edge42
 
-![edge42](imgur.com image replace me!)
+![edge42](https://i.imgur.com/XeUCGfM.jpg)
 
 first my own keyboard.
 
 
 
-* Keyboard Maintainer: [EwdErna](https://github.com/yourusername)
-* Hardware Supported: The PCBs, controllers supported
-* Hardware Availability: Links to where you can find this hardware
+* Keyboard Maintainer: [EwdErna](https://github.com/EwdErna)
+* Hardware Supported: maybe later
+* Hardware Availability: maybe later
 
 Make example for this keyboard (after setting up your build environment):
 
